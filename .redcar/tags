@@ -1,5 +1,9 @@
-1321701633
+1321702505
 Application	C:/RailsProjects/sample_app/config/application.rb	  class Application 
 ApplicationController	C:/RailsProjects/sample_app/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	C:/RailsProjects/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
+PagesController	C:/RailsProjects/sample_app/app/controllers/pages_controller.rb	class PagesController 
+PagesHelper	C:/RailsProjects/sample_app/app/helpers/pages_helper.rb	module PagesHelper
 SampleApp	C:/RailsProjects/sample_app/config/application.rb	module SampleApp
+contact	C:/RailsProjects/sample_app/app/controllers/pages_controller.rb	  def contact
+home	C:/RailsProjects/sample_app/app/controllers/pages_controller.rb	  def home
