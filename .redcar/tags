@@ -1,0 +1,5 @@
+1321701547
+Application	C:/RailsProjects/sample_app/config/application.rb	  class Application 
+ApplicationController	C:/RailsProjects/sample_app/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	C:/RailsProjects/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
+SampleApp	C:/RailsProjects/sample_app/config/application.rb	module SampleApp
